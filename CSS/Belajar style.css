@@ -1,0 +1,25 @@
+h1	{color: #808080}
+
+h2	{color: #87CEFA}
+
+a	{color: blue;
+	text-decoration: none;
+}
+#nav	{
+	margin: 10px 5px 5px 10px;
+	border: 5px solid red;
+	background-color:  	#B0C4DE
+	
+}
+
+#nav	a	{text-decoration: none;
+}
+
+.recomended {
+	font-family:Verdana;
+	font-variant:small-caps;
+	word-spacing: 30px;
+}
+
+h1,	p	{color: #8B4513;
+	}
